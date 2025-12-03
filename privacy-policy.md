@@ -1,8 +1,6 @@
 # Privacy Policy for TokCreator
 
-**Last Updated:** [Date]
-
-**Effective Date:** [Date]
+Last Updated: December 2025
 
 ---
 
@@ -230,4 +228,5 @@ For questions or concerns about privacy, please contact us using the information
 
 **Last Updated:** [Date]  
 **Version:** 1.0
+
 
